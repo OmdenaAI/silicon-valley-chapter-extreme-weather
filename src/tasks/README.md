@@ -11,7 +11,7 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
+|1| task-1-exploratory-data-analysis | The exploration and visualization of the dataset and figuring out the relevant columns, extracting the null values, developing and observing the relation among the target column and the variable columns with the help of Plots, Histograms, Charts, Correlation Matrices, etc.        |
 |2|         |         |
 |3|         |         |
 |4|         |         |
