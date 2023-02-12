@@ -1,4 +1,4 @@
-This is the readme.md file. The task-1-exploratory-data-analysis folder contains the notebooks of various colaborators who have worked on EDA.
+This is the readme.md file. The task-1-exploratory-data-analysis folder contains the notebooks of various colaborators who have worked on EDA and the entire summarized report of the task.
 
 # Description
 
