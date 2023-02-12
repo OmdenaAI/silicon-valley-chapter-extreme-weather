@@ -10,7 +10,7 @@ This is the readme.md file. The task-1-exploratory-data-analysis folder contains
 
 These are a few guidelines for every colaborator
 
- 1- Please upload the notebook in the specified folder only.
+ 1- Please upload the notebook in the specified notebooks folder only.
   
  2- Do not upload Incomplete notebooks.
  
@@ -19,7 +19,7 @@ These are a few guidelines for every colaborator
  4- The Report will be avaialable and updated in the specified report folder for the task-1-exploratory-data-analysis.
  
  
-
+If any colaborator has any doubts pertaining to the task-1-exploratory-data-analysis please do not hesitate to approach the task-leader or the coleader. We would be happy to listen to your doubts and provide the best relevant solution and approach possible.
 
 
 
