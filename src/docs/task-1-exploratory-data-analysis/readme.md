@@ -15,5 +15,4 @@ Guidelines
 In case of any doubts or discrepencies feel free to ask the Task Leader or the Co-leader
 
 # From
-   Vishu Kalier
-   Task Leader
+   Vishu Kalier, Task Leader
