@@ -38,9 +38,8 @@ If any collaborator has any doubts pertaining to the task-1-exploratory-data-ana
 
 
  # From Task Leader
- 
- # Vishu Kalier
+     Vishu Kalier
  
  # From Task Co-leader
+     Pooja
  
- # Pooja
