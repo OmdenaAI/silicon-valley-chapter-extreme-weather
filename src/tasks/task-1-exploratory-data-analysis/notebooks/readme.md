@@ -11,6 +11,17 @@ All the colaborators of the task-1-exploratory-data-analysis are requested to ad
  -  You can also provide the direct link to the notebook via colboratory as well or a compressed file structure is also acceptable.
 
 
+Also please update your notebook with your name in the table below.
+| Serial No. | Name | Notebook | Description (if any) |
+|-|-|-|-|
+| 1. | Vishu Kalier | WeatherI | Notebook for pre-processing (reducing the columns from 246 to 45 ) |
+| 2. | Vishu Kalier | WeatherII | Notebook for Spring Season Analysis |
+| 3. | | |
+| 4. | | |
+| 5. | | |
+
+Please add more columns when necessary.
+
     In case of any doubts or queries please feel free to ask the task-lead without hesitation.
 
 # Task Leader
