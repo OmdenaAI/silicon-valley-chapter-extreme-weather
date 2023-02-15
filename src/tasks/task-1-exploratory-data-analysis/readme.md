@@ -10,11 +10,11 @@ This is the readme.md file. The task-1-exploratory-data-analysis folder contains
 
 These are a few guidelines for every colaborator
 
- 1- Please upload the notebook in the specified notebooks folder only.
+ 1- Please upload the notebook in the specified notebooks folder only. Uploading incomplete notebooks is strictly prohibited.
   
- 2- Do not upload Incomplete notebooks.
+ 2- The tasks and the contributions of every collaborator are provided in the table below and is manually updated on Weekends by the Task-leader.
  
- 3- Make sure to comment down your notebook well so that if anyone views your notebook he is able to understand your intuition and way of approach.
+ 3- The task-1 comprises of visualizations and Exploratory-data-analysis, since after the EDA the shape of the dataset may change due to truncation of irrelevant columns so if any collaborator wishes to update his/her pre-processed file upload it in the EDA datasets subfolder in the task-1-exploratory-data-analysis folder.
  
  4- The Report will be avaialable and updated in the specified report folder for the task-1-exploratory-data-analysis.
  
