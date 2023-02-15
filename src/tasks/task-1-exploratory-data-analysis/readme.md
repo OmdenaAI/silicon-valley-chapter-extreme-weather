@@ -2,8 +2,8 @@ This is the readme.md file. The task-1-exploratory-data-analysis folder contains
 
 # Description
 
-      The folder contain two sub folders, one for the notebooks named as notebooks folder 
-      and other one for the report named as report folder.
+      The folder contain three sub folders, one for the notebooks named as notebooks folder and second one for the report named as
+      report folder and third one for uploading the EDA Datasets by the collaborators as the EDA Datasets subfolder.
 
 
 
