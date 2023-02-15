@@ -19,7 +19,11 @@ These are a few guidelines for every colaborator
  4- The Report will be avaialable and updated in the specified report folder for the task-1-exploratory-data-analysis.
  
 
-The general Task Updates are provided in the table.
+
+
+The general Task Updates are provided in the table below.
+
+
 
 | Serial No. | Work | Desciption (if any) | Person(s) Designated To | Updates |
 |-|-|-|-|-|
