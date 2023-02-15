@@ -31,7 +31,7 @@ The general Task Updates are provided in the table.
 | 6. | Splitting on the Basis of Years | Splitting the dataset on the basis of Years and deducing Insights | Tekle, Kelly | In Progress |
 | 7. | Splitting on the Basis of Regions | Splitting the dataset on the basis of Regions | Nisha Menon | In Progress |
 | 8. | Geographical Analysis | Geographical Analysis and Interpretation of the entire dataset | Licheng Geng | In Progress |
-| 9. | Exploratory Data Analysis | The Visualization, Exploration, Analysis and Interpretation of the dataset based on analytical and mathematical deductions | Entier task-1 team | In Progress |
+| 9. | Exploratory Data Analysis | The Visualization, Exploration, Analysis and Interpretation of the dataset based on analytical and mathematical deductions | Entire Task-1 team | In Progress |
  
 If any collaborator has any doubts pertaining to the task-1-exploratory-data-analysis please do not hesitate to approach the task-leader or the coleader. We would be happy to listen to your doubts and provide the best relevant solution and approach possible. Also, if any collaborator 's contribution is not mentioned please feel free to contact the Task Leader directly and the issue will be resolved in no time.
 
