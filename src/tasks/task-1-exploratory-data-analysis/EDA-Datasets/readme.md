@@ -20,6 +20,15 @@ of seasons then create a sub-folder with the name "Seasons" and add all the requ
 5- Please do not be hasty in uploading whether notebooks or datasets, have a look at the guidelines and if in case of discrepanies or issues ask the Task Leader directly.
 Please upload your work in the correct folders after double checking the folder and its sub-directories.
 
+| Serial No. | Name | Folder | Description | Work Status |
+|-|-|-|-|-|
+| 1. | Vishu Kalier, Praveen Giri | Seasons | Uploading the splitted datasets on the basis of Season | In Progress |
+| 2. | Tekle, Kelly Ochuko Egode | Years | Uploading the splitted datasets on the basis of Years | In Progress |
+| 3. | Nisha Menon | Climatic Regions | Uploading the splitted datasets on the basis of Regions | In Progress |
+| 4. | Anil Erkul, Magno Lira | As a Whole | Uploading the dataset as per their intuitions | In Progress |
+| 5. | | | | |
+
+
 All Collaborators are requested to update the task-table whenever anything is uploaded. In case if the collaborator is not able to update the task-table then it will be
 manually updated on <b><i>weekends (Sunday)</i></b> by the <b><i>Task Leader</i></b>.
 
