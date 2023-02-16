@@ -7,27 +7,25 @@
 
 
 # Guidelines For Uploading
-1- Since, the dataset will be split according to various parameters, if one is working on any particular parameter, then the collaborator should create a 
-within this EDA Dataset folder with a name of the parameter on which it has splitted the Original dataset. For eg: If you are splitting the dataset on the basis
-of seasons then create a sub-folder with the name "Seasons" and add all the required pre-processed files to the specific sub-folder.
+1- Since, the <b><i>dataset will be split according to various parameters</i></b>, if one is working on any particular parameter, then the collaborator should create a folder within this EDA Dataset <b><i>folder with a name of the parameter</i></b> on which he/she has splitted the Original dataset. For eg: If you are splitting the dataset on the basis of seasons then create a sub-folder with the name "Seasons" and add all the required pre-processed files to the specific sub-folder.
 
-2- Please upload the correct pre-processed datasets in the given subfolder, if the subfolder is not created as per your parameters and create one.
+2- Please upload the <b><i>correct pre-processed datasets</i></b> in the given subfolder, if the subfolder is not created as per your parameters and create one.
 
 3- <b><i>No duplicate subfolders</i></b> are allowed.
 
 4- Only provide the datasets in this subfolder, and not the notebooks. Notebooks should be uploaded in the <b><i>'Notebooks'</i></b> sub-folder.
 
-5- Please do not be hasty in uploading whether notebooks or datasets, have a look at the guidelines and if in case of discrepanies or issues ask the Task Leader directly.
+5-  <b><i>Please do not be hasty in uploading notebooks</i></b> or datasets, have a look at the guidelines and if in case of discrepanies or issues ask the Task Leader directly.
 Please upload your work in the correct folders after double checking the folder and its sub-directories.
 
 # Task Table
 
-| Serial No. | Name | Folder | Description | Work Status |
+| $${\color{red}Serial \space No.}$$ | $${\color{red}Name}$$ | $${\color{red}Folder}$$ | $${\color{red}Description}$$ | $${\color{red}Work \space Status}$$ |
 |-|-|-|-|-|
-| 1. | Vishu Kalier, Praveen Giri | <i>Seasons</i> | Uploading the splitted datasets on the basis of Season | <i>In Progress</i> |
-| 2. | Tekle, Kelly Ochuko Egode | <i>Years</i> | Uploading the splitted datasets on the basis of Years | <i>In Progress</i> |
-| 3. | Nisha Menon | <i>Climatic Regions</i> | Uploading the splitted datasets on the basis of Regions | <i>In Progress</i> |
-| 4. | Anil Erkul, Magno Lira | <i>As a Whole</i> | Uploading the dataset as per their intuitions | <i>In Progress</i> |
+| 1. | Vishu Kalier, Praveen Giri | <b><i>Seasons</i><b> | Uploading the splitted datasets on the basis of Season | <b><i>In Progress</i></b> |
+| 2. | Tekle, Kelly Ochuko Egode | <b><i>Years</i></b> | Uploading the splitted datasets on the basis of Years | <b><i>In Progress</i></b> |
+| 3. | Nisha Menon | <b><i>Climatic Regions</i></b> | Uploading the splitted datasets on the basis of Regions | <b><i>In Progress</i></b> |
+| 4. | Anil Erkul, Magno Lira | <b><i>As a Whole</i></b> | Uploading the dataset as per their intuitions | <b><i>In Progress</i></b> |
 | 5. | | | | |
 
 
