@@ -23,19 +23,19 @@ These are a few guidelines for every colaborator
 
 The general Task Updates are provided in the table below.
 
+# Task Table
 
-
-| Serial No. | Work | Desciption (if any) | Person(s) Designated To | Updates |
+| <b><i>Serial No. | <b><i>Work | <b><i>Desciption (if any) | <b><i>Person(s) Designated To | <b><i>Updates |
 |-|-|-|-|-|
-| 1. | Dataset Preprocessing | The dataset is pre-processed and analyzed predicting the null values and performing simple EDA Analysis | Anil Erkul, Magno Lira, Vishu Kalier, Binita G., Tekle, Pooja, Nisha Menon, Praveen Giri, Nancy Santana | Completed |
-| 2. | Estmation of Null Values | Estimation of Null values accurately on the basis of adjacent values | Anil Erkul | Completed |
-| 3. | Reducing Columns |  Removing the irrelevant columns based on proper intuitions and visualizations | Vishu Kalier |  Completed |
-| 4. | Splitting Dataset | A Meeting was organized to view the various insights and the future tasks were assorted to the various people | Entire Task-1 Team | Completed |
-| 5. | Splitting on the Basis of Seasons | Splitting the dataset on the basis of Seasons and deducing insights from it | Vishu Kalier, Praveen Giri | In Progress |
-| 6. | Splitting on the Basis of Years | Splitting the dataset on the basis of Years and deducing Insights | Tekle, Kelly | In Progress |
-| 7. | Splitting on the Basis of Regions | Splitting the dataset on the basis of Regions | Nisha Menon | In Progress |
-| 8. | Geographical Analysis | Geographical Analysis and Interpretation of the entire dataset | Licheng Geng | In Progress |
-| 9. | Exploratory Data Analysis | The Visualization, Exploration, Analysis and Interpretation of the dataset based on analytical and mathematical deductions | Entire Task-1 team | In Progress |
+| 1. | <b><i>Dataset Preprocessing</i></b> | The dataset is pre-processed and analyzed predicting the null values and performing simple EDA Analysis | Anil Erkul, Magno Lira, Vishu Kalier, Binita G., Tekle, Pooja, Nisha Menon, Praveen Giri, Nancy Santana | <b><i>Completed</i></b> |
+| 2. | <b><i>Estmation of Null Values</i></b> | Estimation of Null values accurately on the basis of adjacent values | Anil Erkul | <b><i>Completed</i></b> |
+| 3. | <b><i>Reducing Columns</i></b> |  Removing the irrelevant columns based on proper intuitions and visualizations | Vishu Kalier |  <b><i>Completed</i></b> |
+| 4. | <b></i>Splitting Dataset</i></b> | A Meeting was organized to view the various insights and the future tasks were assorted to the various people | All People Mentioned in First Task | <b><i>Completed</i></b> |
+| 5. | <b><i>Splitting on the Basis of Seasons</i></b> | Splitting the dataset on the basis of Seasons and deducing insights from it | Vishu Kalier, Praveen Giri | <b><i>In Progress</i></b> |
+| 6. | <b><i>Splitting on the Basis of Years</i></b> | Splitting the dataset on the basis of Years and deducing Insights | Tekle, Kelly | <b><i>In Progress</i></b> |
+| 7. | <b><i>Splitting on the Basis of Regions</i></b> | Splitting the dataset on the basis of Regions | Nisha Menon | <b><i>In Progress</i></b> |
+| 8. | <b><i>Geographical Analysis</i></b> | Geographical Analysis and Interpretation of the entire dataset | Licheng Geng | <b><i>In Progress</i></b> |
+| 9. | <b><i>Exploratory Data Analysis</i></b> | The Visualization, Exploration, Analysis and Interpretation of the dataset based on analytical and mathematical deductions | All People Mentioned in First Task | <b><i>In Progress</i></b> |
  
 If any collaborator has any doubts pertaining to the task-1-exploratory-data-analysis please do not hesitate to approach the task-leader or the coleader. We would be happy to listen to your doubts and provide the best relevant solution and approach possible. Also, if any collaborator 's contribution is not mentioned please feel free to contact the Task Leader directly and the issue will be resolved in no time.
 
