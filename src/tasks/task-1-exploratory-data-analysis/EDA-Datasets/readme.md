@@ -1,9 +1,8 @@
 
 
 # $${\color{lightblue}EDA \space Datasets \space Subfolder}$$
-    Here all the pre-processed and the splitted datasets for the task-1-exploratory data analysis, can be
-    placed by any collaborator. The Feature-extraction team is supposed to work on these pre-processed 
-    datasets provided in these subfolders.
+    Here all the pre-processed and the splitted datasets for the task-1-exploratory data analysis, can be placed by any collaborator. 
+    The Feature-extraction team is supposed to work on these pre-processed datasets provided in these subfolders.
 
 
 # $${\color{lightblue} Guidelines \space For \space Uploading}$$
@@ -33,5 +32,5 @@ All Collaborators are requested to update the task-table whenever anything is up
 manually updated on <b><i>weekends (Sunday)</i></b> by the <b><i>Task Leader</i></b>.
 
 
-# From Task Leader
-  <b> Vishu Kalier </b>
+# Task Leader
+  <b><i> Vishu Kalier </i></b>
