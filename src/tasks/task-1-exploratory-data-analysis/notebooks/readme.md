@@ -28,5 +28,5 @@ Please add more columns when necessary. If the collaborator is not able to updat
     In case of any doubts or queries please feel free to ask to the task-lead without hesitation.
 
 
- # Task Leader
+ # ${\color{lightblue} Task \space Leader}$
    Vishu Kalier
