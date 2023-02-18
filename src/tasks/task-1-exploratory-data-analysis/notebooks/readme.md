@@ -19,7 +19,7 @@ Also please update your notebook with your name in the notebook updation table b
 |-|-|-|-|
 | 1. | ${\color{lightgreen}Vishu \space Kalier}$ | WeatherI | Notebook for pre-processing (reducing the columns from 246 to 45 ) |
 | 2. | ${\color{lightgreen}Vishu \space Kalier}$ | WeatherII | Notebook for Spring Season Analysis |
-| 3. | | |
+| 3. | ${\color{lightgreen} Vishu \space Kalier}$ | Winter | Notebook for Winter Season Analysis |
 | 4. | | |
 | 5. | | |
 
