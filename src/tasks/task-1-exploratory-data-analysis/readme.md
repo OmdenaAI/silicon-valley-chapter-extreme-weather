@@ -39,11 +39,9 @@ The general Task Updates are provided in the table below.
  
 If any collaborator has any doubts pertaining to the task-1-exploratory-data-analysis please do not hesitate to approach the task-leader or the coleader. We would be happy to listen to your doubts and provide the best relevant solution and approach possible. Also, if any collaborator 's contribution is not mentioned please feel free to contact the Task Leader directly and the issue will be resolved in no time.
 
+# ${\color{lightblue} Task \space Leader}$
+<b><i>Vishu Kalier</i></b>
 
-
- # ${\color{ligtblue} Task \space Leader}$
-     <b><i>Vishu Kalier</i></b>
- 
- # ${\color{ligtblue} Maintained \space By}$
-     <b><i>Vishu Kalier</i></b>
+# ${\color{lightblue}Maintained \space By}$
+<b><i>Vishu Kalier</i></b>
  
