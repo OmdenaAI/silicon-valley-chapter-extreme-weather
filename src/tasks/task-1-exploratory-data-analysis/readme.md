@@ -41,6 +41,9 @@ If any collaborator has any doubts pertaining to the task-1-exploratory-data-ana
 
 
 
- # Task Leader
-     Vishu Kalier
+ # ${\color{ligtblue} Task \space Leader}$
+     <b><i>Vishu Kalier</i></b>
+ 
+ # ${\color{ligtblue} Maintained \space By}$
+     <b><i>Vishu Kalier</i></b>
  
