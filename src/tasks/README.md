@@ -14,5 +14,4 @@ Note : Please Follow the below guidelines to create task folders
 |1| ${\color{lightgreen} task-1-exploratory-data-analysis}$ | The exploration and visualization of the dataset and figuring out the relevant columns, extracting the null values, developing and observing the relation among the target column and the variable columns with the help of Plots, Histograms, Charts, Correlation Matrices, etc.        |
 |2| ${\color{lightgreen} task-2-feature-extraction}$ | Feature Extraction and Scaling of Parameters to fit the best parameters and get the accurate training datasets.        |
 |3| ${\color{lightgreen} task-3-model-development}$ | Model Development and Model Evaluation using Various Machine Learning and Deep Learning Algorithms. |
-|4|         |         |
-|5| ${\color{lightgreen} Political \space Rationale}$ | The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+|4| ${\color{lightgreen} Political \space Rationale}$ | The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
