@@ -2,7 +2,7 @@
 
 All the colaborators of the task-1-exploratory-data-analysis are requested to adhere to the below guidelines to the maximum extent possible.
 
-# ${\color{lightblue}Notebook \space Guidelines}$
+# ${Notebook \space Guidelines}$
 
  -  Please keep the <b><i>notebook for the EDA</i></b> in this folder only.
  -  The notebook should be well justified with markdown cells and comments <b><i>explaining the intuition </i></b> to the viewers.
@@ -13,13 +13,13 @@ All the colaborators of the task-1-exploratory-data-analysis are requested to ad
 
 Also please update your notebook with your name in the notebook updation table below.
 
-# ${\color{lightblue} Notebook \space Updation \space Table}$
+# ${ Notebook \space Updation \space Table}$
 
-| $${\color{red}Serial \space No.}$$ | $${\color{red}Name}$$ | $${\color{red}Notebook}$$ | $${\color{red}Description \space (if \space any)}$$ |
+| $${Serial \space No.}$$ | $${Name}$$ | $${Notebook}$$ | $${Description \space (if \space any)}$$ |
 |-|-|-|-|
-| 1. | ${\color{lightgreen}Vishu \space Kalier}$ | WeatherI | Notebook for pre-processing (reducing the columns from 246 to 45 ) |
-| 2. | ${\color{lightgreen}Vishu \space Kalier}$ | WeatherII | Notebook for Spring Season Analysis |
-| 3. | ${\color{lightgreen} Vishu \space Kalier}$ | Winter | Notebook for Winter Season Analysis |
+| 1. | ${Vishu \space Kalier}$ | WeatherI | Notebook for pre-processing (reducing the columns from 246 to 45 ) |
+| 2. | ${Vishu \space Kalier}$ | WeatherII | Notebook for Spring Season Analysis |
+| 3. | ${Vishu \space Kalier}$ | Winter | Notebook for Winter Season Analysis |
 | 4. | | |
 | 5. | | |
 
@@ -28,5 +28,5 @@ Please add more columns when necessary. If the collaborator is not able to updat
     In case of any doubts or queries please feel free to ask to the task-lead without hesitation.
 
 
- # ${\color{lightblue} Task \space Leader}$
+ # ${Task \space Leader}$
    Vishu Kalier
