@@ -3,6 +3,39 @@
 # Silcion Valley Chapter - Xtreme Weather Prediction
 <img src="src/visualizations/DALL·E 2024-04-17 13.15.30_XW.png">
 
+## This project is also a part of the WiDS Datathon 2023 - Sub-seasonal Temperature Forecasting, sponsored by Omdena Silicon Valley Chapter.
+
+## Overview
+This GitHub repository houses the project by Omdena Silicon Valley Chapter for the WiDS Datathon 2023. The aim is to predict the 14-day average of maximum and minimum temperatures for various US locations, using historical weather data. This project supports community preparedness against extreme weather from climate change.
+
+## Data
+The dataset includes temperature, wind speed, and vapor pressure across multiple US locations. Each record represents a unique location and a two-week period, designed to challenge our predictive modeling techniques.
+
+## Goals and Workflow
+- **Exploratory Data Analysis:** Understand data distributions and relationships.
+- **Data Preprocessing:** Clean, handle missing values, and detect outliers.
+- **Feature Engineering:** Identify and select impactful features for the models.
+- **Model Development:** Use machine learning methods like Random Forest, XGBoost, and CNNs.
+- **Model Evaluation:** Compare model performances and select the best.
+- **Deployment Preparation:** Ready the final model for real-time forecasting applications.
+
+## Challenges
+- **Feature Selection:** Identifying the most relevant features for accurate predictions.
+- **Data Merging and Preprocessing:** Effectively combining and preparing datasets for modeling.
+
+## Learning Outcomes
+Participants will gain expertise in:
+- **Data Pre-processing:** Techniques for cleaning and transforming data.
+- **Feature Engineering:** Analyzing and selecting significant data features.
+- **Model Development:** Building and tuning advanced predictive models.
+- **Model Evaluation:** Applying metrics to evaluate model performance.
+- **Deployment:** Deploying models in production environments.
+
+## Collaborators
+This project is led by the Omdena Silicon Valley Chapter Lead Nishrin Kachwala, and Omdena Collaborators, comprising data scientists and AI practitioners focused on using machine learning for social good.
+
+Our project contributes to and enhances community resilience against climate change.
+
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
